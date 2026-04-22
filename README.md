@@ -22,17 +22,13 @@ This repository contains Python implementations of numerical methods for solving
 
 ## Author
 Victor Oliveira
-Physics researcher focused on numerical modeling, scientific computing, and differential equations.
-## How to run
 
-Install the required libraries:
+Physics researcher focused on numerical modeling, scientific computing, and differential equations.
+
+## How to run
 
 pip install -r requirements.txt
 
-Then run the example script:
-
 python example_ode.py
-
-You can also run:
 
 python error_analysis.py
