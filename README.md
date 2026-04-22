@@ -23,3 +23,9 @@ This repository contains Python implementations of numerical methods for solving
 ## Author
 Victor Oliveira
 Physics researcher focused on numerical modeling, scientific computing, and differential equations.
+## How to run
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
