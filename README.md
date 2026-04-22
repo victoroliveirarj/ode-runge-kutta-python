@@ -27,5 +27,12 @@ Physics researcher focused on numerical modeling, scientific computing, and diff
 
 Install the required libraries:
 
-```bash
 pip install -r requirements.txt
+
+Then run the example script:
+
+python example_ode.py
+
+You can also run:
+
+python error_analysis.py
